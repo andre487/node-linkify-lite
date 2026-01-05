@@ -2,7 +2,7 @@
 
 Linkify text with ~300B of uncompressed code
 
-[![Build Status](https://travis-ci.org/andre487/node-linkify-lite.svg?branch=master)](https://travis-ci.org/andre487/node-linkify-lite)
+[![CI](https://github.com/andre487/node-linkify-lite/actions/workflows/ci.yaml/badge.svg)](https://github.com/andre487/node-linkify-lite/actions/workflows/ci.yaml)
 
 ```
 npm install --save linkify-lite
